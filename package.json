@@ -48,7 +48,7 @@
     "easy-signal": "^4.1.6"
   },
   "peerDependencies": {
-    "svelte": ">=3.43.0 <5"
+    "svelte": ">=3.43.0 <6"
   },
   "devDependencies": {
     "@sveltejs/adapter-auto": "^3.2.4",
